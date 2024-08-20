@@ -29,3 +29,5 @@
 
 ### AmountCurrency
 - **Sensitivity Currency**: The currency used in the `Amount` field, such as 'USD', 'EUR', 'GBP'.
+
+
